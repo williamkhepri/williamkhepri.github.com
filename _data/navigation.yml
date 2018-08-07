@@ -3,10 +3,10 @@ main:
   - title: "Home"
     url: https://williamkhepri.github.io/
   - title: "About"
-    url: https://williamkhepri.github.io/about/
-  - title: "Sample Posts"
-    url: /year-archive/
-  - title: "Sample Collections"
-    url: /collection-archive/
+    url: /about/
+  #- title: "Sample Posts"
+  # url: /year-archive/
+  #- title: "Sample Collections"
+  # url: /collection-archive/
   - title: "Sitemap"
     url: /sitemap/
