@@ -12,11 +12,11 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-<<<<<<< HEAD
+
 minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
-=======
+
 minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
->>>>>>> 0f577895af21b4a39b795b30592ea0efa1396787
+
 
 # Site Settings
 locale                   : "es-ES"
@@ -25,11 +25,8 @@ title_separator          : "-"
 name                     : "williamkhepri"
 description              : "Software Developer."
 url                      : https://williamkhepri.github.io
-<<<<<<< HEAD
-baseurl                  : "/blog"
-=======
 baseurl                  :
->>>>>>> 0f577895af21b4a39b795b30592ea0efa1396787
+
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
