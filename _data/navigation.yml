@@ -3,7 +3,7 @@ main:
   - title: "Home"
     url: https://williamkhepri.github.io/
   - title: "About"
-    url: _pages/about.md
+    url: /about/
   #- title: "Sample Posts"
   # url: /year-archive/
   #- title: "Sample Collections"
