@@ -111,11 +111,7 @@ author:
   name             : "William Khepri"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Software Developer."
-<<<<<<< HEAD
   location         : "Madrid, ES"
-=======
-  location         : "Alpha Centauri"
->>>>>>> 0f577895af21b4a39b795b30592ea0efa1396787
   email            : "contacto@williamkhepri.com"
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
