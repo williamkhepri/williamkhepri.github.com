@@ -1,5 +1,5 @@
 ---
-title: First Post
+title: First Post.
 search: true
 categories:
   - Hello World
