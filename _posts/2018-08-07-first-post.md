@@ -11,4 +11,5 @@ published: true
 
 
 Pronto empezaré a publicar posts relacionados con la Informática y la tecnología.
+
 ![]({{site.baseurl}}/https://imgur.com/gallery/i4PuQbc)
