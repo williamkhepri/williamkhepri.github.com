@@ -1,0 +1,16 @@
+---
+label: Template1
+hide_body: false
+fields:
+- type: text
+  name: title
+  label: title
+- type: boolean
+  name: search
+  label: search
+- type: list
+  name: categories
+  label: categories
+- type: field_group
+  name: last_modified_at
+  label: last_modified_at
